@@ -1,0 +1,7 @@
+a, input{
+    display: block;
+    margin-top: 5px;
+}
+ul li{
+    display: inline;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: magenta;
+    background-image: url(../gambar/javascriptlogo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20000px;
+    background-attachment: fixed;
+}
+.jumbutron{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    margin: auto;
+    background-image: url(../gambar/htmllogo.png);
+    background-size: cover;
+    background-attachment: fixed;
+}

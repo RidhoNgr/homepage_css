@@ -1,0 +1,19 @@
+.container{
+    width: 200px;
+    border: 100px solid salmon;
+    margin: auto;
+}
+
+.kotak_1, .kotak_2, .kotak_3{
+    width: 100px;
+    background-color: slateblue;
+    margin: 5px;
+    box-sizing: border-box;
+}
+.kotak_1{
+    padding: 50px;
+}
+.kotak_2{
+    border: 50px solid slateblue;
+    padding: 50px;
+}
